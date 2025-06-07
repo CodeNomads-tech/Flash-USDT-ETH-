@@ -3,7 +3,8 @@
 A lightweight, GUI-based Ethereum prank utility designed for **flash token transfers** using private key access. Built with ❤️ in Python and Tkinter, this tool lets you simulate ERC-20 token transfers that appear **real** on-chain — even though they're purely for visual effect.
 
 > 💡 Perfect for testing, demos, or messing with your crypto friends. Looks real. Feels real. Isn't real.
-
+## Topics
+🔗 flash-usdt, flash-usdt-app-2025, flash-usdt-free, flash-usdt-generator-app, flash-usdt-sender-v2, flash-usdt-software-2025, flash-usdt-software-download, flash-usdt-software, flash-usdt-tokens, flash-usdt-wallet, flash-usdt-working, usdt-flash-currency
 ---
 
 ## 🚀 Features
